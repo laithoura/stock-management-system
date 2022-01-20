@@ -2,6 +2,11 @@
 
 This is a project that I have implemented when I accomplished the C/C++ course at ANT Training Center since **2016**. 
 
+# Login as Default Admin
+- username: **amdin**   
+- password: **1234**
+
+
 ![Image](readme/stock.png)
 
 <hr>
