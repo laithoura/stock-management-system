@@ -1,20 +1,23 @@
 # Stock Management System
 
-This is a project that I have implemented when I accomplished the C/C++ course at ANT Training Center. 
+This is a project that I have implemented when I accomplished the C/C++ course at ANT Training Center since **2016**. 
 
 ![Image](readme/stock.png)
 
 <hr>
 
-Staff:
+**Staff:**
+
 ![Image](readme/staff.png)
 
 <hr>
 
-Product:
+**Product:**
+
 ![Image](readme/product.png)
 
 <hr>
 
-Export:
+**Export:**
+
 ![Image](readme/export.png)
