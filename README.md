@@ -5,7 +5,7 @@ This is a project that I have implemented when I accomplished the C/C++ course a
 > Note: I didn't follow the proper **naming convention**, nor **OOP** concept. Hopefully, it is helpful for a newbie who just start learning C/C++.
 
 # Installation
-- IDE: **Dev-C++**
+- IDE: **Dev C++**
 - Build it as ***.exe** file for windows, then we can run it.
 
 # Login as Default Admin
